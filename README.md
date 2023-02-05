@@ -1,4 +1,4 @@
-# Create Discord Bot
+# Discord Bot Creator
 
 A creation CLI for quick creation of a Discord bot project.
 
@@ -6,16 +6,14 @@ A creation CLI for quick creation of a Discord bot project.
 
 ## Quick Start
 
-Make sure you have **[Node.js LTS/Latest](https://nodejs.org)** installed then run this command:
+Make sure you have **[Node.js LTS/Latest](https://nodejs.org)** installed then run these commands:
 
 ```shell
-npm create discord-bot
+npm i -g discord-bot-creator
 ```
 
-**OR**
-
 ```shell
-npm init discord-bot
+create-discord-bot
 ```
 
 ---

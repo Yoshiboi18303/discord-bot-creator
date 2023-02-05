@@ -1,5 +1,5 @@
 {
-  "name": "create-discord-bot",
+  "name": "discord-bot-creator",
   "version": "1.0.0",
   "description": "Provides a CLI for you to create a Discord bot project in JavaScript",
   "main": "bin/index.js",
