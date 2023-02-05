@@ -1,0 +1,10 @@
+# Folders
+node_modules/
+.vscode/
+
+# Ignore ALL templates
+templates/**
+
+# Files
+.eslintrc.js
+removeAllTypes.js

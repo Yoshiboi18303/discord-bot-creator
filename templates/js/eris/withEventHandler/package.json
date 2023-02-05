@@ -1,0 +1,10 @@
+{
+    "name": "@example/events",
+    "private": true,
+    "dependencies": {
+        "eris": "0.17.1"
+    },
+    "scripts": {
+        "start": "node ."
+    }
+}

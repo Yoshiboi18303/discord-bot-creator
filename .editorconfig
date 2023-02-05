@@ -1,0 +1,14 @@
+# Editor configuration
+root = true
+
+[*]
+indent_size = 4
+indent_style = space
+end_of_line = crlf
+
+[*.js]
+insert_final_newline = true
+
+[bin/*.js]
+trim_trailing_whitespace = true
+insert_final_newline = true

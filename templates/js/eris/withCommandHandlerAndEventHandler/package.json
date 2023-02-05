@@ -1,0 +1,11 @@
+{
+    "name": "@example/all",
+    "private": true,
+    "dependencies": {
+        "eris": "0.17.1",
+        "path": "0.12.7"
+    },
+    "scripts": {
+        "start": "node ."
+    }
+}

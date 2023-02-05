@@ -1,0 +1,10 @@
+{
+    "name": "@example/minimal",
+    "private": true,
+    "dependencies": {
+        "discord.js": "14.7.1"
+    },
+    "scripts": {
+        "start": "node ."
+    }
+}
