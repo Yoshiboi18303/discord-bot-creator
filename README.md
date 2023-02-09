@@ -16,6 +16,18 @@ npm i -g discord-bot-creator
 create-discord-bot
 ```
 
+**OR**
+
+```shell
+discord-bot-creator
+```
+
+**OR**
+
+```shell
+npm create discord-bot
+```
+
 ---
 
 ## Contributing

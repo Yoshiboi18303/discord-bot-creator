@@ -1,6 +1,6 @@
 {
   "name": "discord-bot-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a CLI for you to create a Discord bot project in JavaScript",
   "main": "bin/index.js",
   "scripts": {
@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/Yoshiboi18303/create-discord-bot#readme",
   "bin": {
-    "create-discord-bot": "bin/index.js"
+    "create-discord-bot": "bin/index.js",
+    "discord-bot-creator": "bin/index.js"
   },
   "dependencies": {
     "clui": "^0.3.6",
